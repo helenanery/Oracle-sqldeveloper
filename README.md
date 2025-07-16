@@ -17,4 +17,4 @@ Este repositório contém scripts SQL desenvolvidos no Oracle SQL Developer, vol
 
 - Oracle SQL Developer
 - Oracle Database 19c
-- Git e GitHu
+- Git e GitHub
