@@ -9,7 +9,7 @@ Este repositório contém scripts SQL desenvolvidos no Oracle SQL Developer, vol
 - `helena-local2.sql`
 - `helena-local3.sql`
 - `helena-local~1.sql`
-- `procedimento.sql`
+- `procedure.sql`
 - `sys-orcl-local.sql`
 
 > Esses arquivos contêm scripts variados criados ou extraídos do ambiente local Oracle (versão 19c).
