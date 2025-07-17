@@ -11,6 +11,8 @@ grant create trigger to helena;
 
 grant create view to helena;
 
+grant create procedure to helena;
+
 grant CREATE MATERIALIZED VIEW to helena;
 
 grant create database link to helena;
